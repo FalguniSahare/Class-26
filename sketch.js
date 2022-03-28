@@ -36,7 +36,10 @@ function setup(){
 
     bird = new Bird(100,100);
 
+
 }
+
+// making changes
 
 function draw(){
     background(backgroundImg);
